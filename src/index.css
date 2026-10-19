@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@plugin "flowbite/plugin";
+@source "../node_modules/flowbite";
+
+*{
+  /* margin: 0;
+  padding: 0; */
+  /* font-family: "Martel Sans", sans-serif; */
+  font-family: "Martel Sans", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
